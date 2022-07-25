@@ -30,7 +30,8 @@
   "unpkg": "dist/d3-interpolate.min.js",
   "exports": {
     "umd": "./dist/d3-interpolate.min.js",
-    "default": "./src/index.js"
+    "default": "./src/index.js",
+    "./package.json": "./package.json"
   },
   "sideEffects": false,
   "dependencies": {
